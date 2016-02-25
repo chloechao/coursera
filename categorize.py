@@ -3,7 +3,6 @@ import random
 
 def category(group, group_num):
     list_ = []
-    enteries = []
     if group_num > len(group):
         return
 
